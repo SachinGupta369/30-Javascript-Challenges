@@ -40,3 +40,20 @@ Ternary Operator is a condition operator where ( Condition ? Express1 : Express2
 i.e. let result = (condition ? Express1 : Express2)
 console.log(result)
 
+# Data types in Javascript:
+
+* Primitives 
+
+1. Number = -3,-2,-1,0,1,2,3, 
+2. BigInt = 53454313245153445n  at last we have to put n for BigInt.
+3. Floating Point = 3.14, 0.12, 2.0, a number with decimal
+4. String = "Hello Javascript" OR 'Hello Js'
+5. Null = A null value is an empty value, or a variable that has intentionally been assigned a value of null.
+6. Undefined =  An undefined value is a variable that has been declared but not assigned a value.
+7. 
+
+* Non-Primitives
+
+1. Object = An object is a collection of key-value pairs. The key is the property name, and the value is the property value.
+{ }
+2. Array = [ ]
