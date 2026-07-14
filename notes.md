@@ -50,7 +50,7 @@ console.log(result)
 4. String = "Hello Javascript" OR 'Hello Js'
 5. Null = A null value is an empty value, or a variable that has intentionally been assigned a value of null.
 6. Undefined =  An undefined value is a variable that has been declared but not assigned a value.
-7. 
+7. Boolean = True and False
 
 * Non-Primitives
 
